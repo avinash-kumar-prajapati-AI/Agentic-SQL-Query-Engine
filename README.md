@@ -161,5 +161,5 @@ Then ask questions like these below:
 
 ## 🌟 Current limitations
 * Not fully language aware and depend on the LLMS, hence using large LLM will give awesome result while small LMs like gemma3:4b etc only answer simple query.
-* Schema-aware reasoning
-* Dependency-safe planning
+* Highly complex queries involve CTEs, Subquery etc
+
